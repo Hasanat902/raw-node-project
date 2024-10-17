@@ -3,7 +3,7 @@ const {sampleHandler} = require('./handlers/routeHandlers/sampleHandler');
 
 // routes
 const routes = {
-    'sample': sampleHandler,
+    sample: sampleHandler,
 };
 
 module.exports = routes;
